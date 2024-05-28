@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T11:40:15.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jqjrocNxqrmFXDtXbhy9" version="24.4.8" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-28T11:13:12.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2LzVXtMaZSqccPUtdnNd" version="24.4.9" type="device">
   <diagram name="Página-1" id="7WA0mOos7pG7LoxNI5Q7">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="wqn46flcgay6vvXDy6C1-37" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="372" y="470" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2dVyMAP3Nzwn1a5JVERK-2" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+        <mxCell id="2dVyMAP3Nzwn1a5JVERK-2" value="" style="shape=mxgraph.signs.transportation.car_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="287" y="80" width="254" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="2dVyMAP3Nzwn1a5JVERK-1" value="&lt;h1&gt;ENTREGA DO PEDIDO&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontFamily=Lucida Console;strokeColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="2dVyMAP3Nzwn1a5JVERK-1" value="&lt;h1&gt;ENTREGA DO PEDIDO&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontFamily=Lucida Console;strokeColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="244" y="130" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
